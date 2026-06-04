@@ -12,7 +12,7 @@
 
 ## 🏗️ Architecture Diagram
 
-![Three-Tier Architecture Diagram](architecture-project-1.png)
+![Three-Tier Architecture Diagram](architecture-images/architecture-project-1.png)
 
 ## 🎯 What You'll Learn
 

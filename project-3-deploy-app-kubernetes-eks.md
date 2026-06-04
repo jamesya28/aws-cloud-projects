@@ -12,7 +12,7 @@
 
 ## 🏗️ Architecture Diagram
 
-![EKS Kubernetes Architecture Diagram](architecture-project-3.png)
+![EKS Kubernetes Architecture Diagram](architecture-images/architecture-project-3.png)
 
 ## 🎯 What You'll Learn
 

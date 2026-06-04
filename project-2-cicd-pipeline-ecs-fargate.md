@@ -12,7 +12,7 @@
 
 ## 🏗️ Architecture Diagram
 
-![CI/CD Pipeline Architecture Diagram](architecture-project-2.png)
+![CI/CD Pipeline Architecture Diagram](architecture-images/architecture-project-2.png)
 
 ## 🎯 What You'll Learn
 
