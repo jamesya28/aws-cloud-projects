@@ -1,4 +1,4 @@
-# ☁️ AWS Cloud Engineering Portfolio
+# ☁️ AWS Cloud Portfolio
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Cloud_Engineer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -137,7 +137,7 @@ Each project contains a complete step-by-step guide. To get started:
 
 ## 📫 About Me
 
-I'm a Cloud Engineer passionate about building scalable, resilient infrastructure on AWS. These projects represent hands-on implementations of production-grade architectures.
+I'm a Aspiring Cloud Engineer passionate about building scalable, resilient infrastructure on AWS. These projects represent hands-on implementations of production-grade architectures.
 
 - 🔭 Currently focusing on: AWS, Terraform, Kubernetes, CI/CD
 - 🌱 Preparing for: AWS Solutions Architect / DevOps Engineer certifications
